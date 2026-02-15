@@ -6,6 +6,8 @@
 
 Test your reflexes and strategy in an intense bullet hell experience. As waves of enemies relentlessly challenge you, you'll need sharp timing and skillful maneuvers to survive. Deflect enemy bullets back at them, outsmart unique foes, and build your character's power to survive longer with each wave.
 
+![image](https://github.com/pgnw/BulletGame/assets/106630033/b7681cad-69fb-4a38-a9f4-2bdb0a50f1a5)
+
 ### Key Features
 
 - **2D Top-Down Perspective**: Classic arcade-style gameplay with fluid 360-degree movement and combat.
