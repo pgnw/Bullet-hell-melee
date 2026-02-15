@@ -1,56 +1,67 @@
-Bullet Hell Melee
-A fast-paced 2D top-down bullet hell game developed in Unity where you must survive endless waves of increasingly difficult enemies.
-Show Image
-Overview
-Test your reflexes and strategy in this intense bullet hell experience where survival is the only goal. Face increasingly challenging waves of enemies, deflect incoming projectiles, and upgrade your abilities to last as long as possible.
-Features
+## Bullet Hell Melee
 
-2D Top-Down Perspective: Classic arcade-style gameplay with full 360-degree movement and combat
-Bullet Deflection Mechanic: Skillfully deflect enemy projectiles back at your foes
-Endless Wave System: Face progressively harder enemy waves that scale in difficulty over time
-Enemy Variety: Multiple enemy types with unique behaviors and attack patterns
-Upgrade System: Enhance your character's abilities to survive longer against overwhelming odds
-Score-Based Progression: Compete for longer survival times and higher scores
+**A fast-paced 2D top-down bullet hell game** built with Unity, where survival is the ultimate goal. Battle through endless waves of ever-increasing enemy hordes, dodge bullets, deflect projectiles, and upgrade your abilities to last longer.
 
-Controls
-ActionInputMoveWASDAttackLeft Mouse ButtonAimMouse Pointer
-Getting Started
-Prerequisites
+### Overview
 
-Unity 2020.3 LTS or later
-Basic understanding of Unity Editor
+Test your reflexes and strategy in an intense bullet hell experience. As waves of enemies relentlessly challenge you, you'll need sharp timing and skillful maneuvers to survive. Deflect enemy bullets back at them, outsmart unique foes, and build your character's power to survive longer with each wave.
 
-Installation
+### Key Features
 
-Clone this repository:
+- **2D Top-Down Perspective**: Classic arcade-style gameplay with fluid 360-degree movement and combat.
+- **Bullet Deflection**: Use your skill to deflect enemy projectiles and turn their attacks back on them.
+- **Endless Waves**: Encounter progressively harder waves that continuously scale in difficulty.
+- **Diverse Enemies**: Multiple enemy types, each with unique behaviors and attack patterns to keep you on your toes.
+- **Character Upgrades**: Enhance your abilities and unlock new skills to survive even longer against the odds.
+- **Score-Based Progression**: Challenge yourself for higher survival times and top scores.
 
-bash   git clone https://github.com/pgnw/Bullet-hell-melee.git
+### Controls
 
-Open the project in Unity Hub
-Load the main scene from the Assets/Scenes folder
-Press Play in the Unity Editor to start the game
+| Action        | Input                     |
+|---------------|---------------------------|
+| Move          | WASD                      |
+| Attack        | Left Mouse Button          |
+| Aim           | Mouse Pointer              |
 
-Building the Game
+### Getting Started
 
-Open the project in Unity
-Go to File > Build Settings
-Select your target platform
-Click Build and choose your output directory
+#### Prerequisites
 
-Gameplay
-Your objective is simple: survive as long as possible. As you progress, enemies become stronger, faster, and more numerous. Use the bullet deflection mechanic strategically to turn your enemies' attacks against them while managing your positioning and timing.
-Development
-This project is built using:
+- Unity 2020.3 LTS or later
+- Basic understanding of the Unity Editor
 
-Engine: Unity
-Language: C# (70.8%)
-Shaders: ShaderLab (24.9%), HLSL (4.3%)
+#### Installation
 
-Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/pgnw/Bullet-hell-melee.git
+   ```
+2. Open the project in Unity Hub.
+3. Load the main scene from `Assets/Scenes`.
+4. Hit "Play" in Unity Editor to start the game.
 
-Inspired by classic bullet hell arcade games
-Built with Unity game engine
+#### Building the Game
+
+1. Open the project in Unity.
+2. Navigate to `File > Build Settings`.
+3. Select your target platform.
+4. Click "Build" and choose your output directory.
+
+### Gameplay
+
+The goal is simple: **survive as long as possible**. As you progress, enemies become faster, tougher, and more numerous. Strategically use the **bullet deflection** mechanic to turn the enemies' projectiles against them, while managing your positioning and timing to stay alive.
+
+### Development
+
+- **Engine**: Unity
+- **Languages**: C# (70.8%), ShaderLab (24.9%), HLSL (4.3%)
+
+### Contributing
+
+Contributions are welcome! Open an issue or submit a pull request to improve the game or add new features.
+
+### License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+- Built using the **Unity** game engine.
